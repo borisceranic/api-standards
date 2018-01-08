@@ -942,7 +942,7 @@ A link relation type represented by `rel` must be in lower-case.
 ```
 "links": [
     {
-        "href": "href": "https://uri.foo.com/v1/customer/partner-referrals/ALT-JFWXHGUV7VI/activate",
+        "href": "https://uri.foo.com/v1/customer/partner-referrals/ALT-JFWXHGUV7VI/activate",
         "rel": "activate",
         "method": "POST"
 
